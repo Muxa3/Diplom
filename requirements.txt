@@ -1,0 +1,4 @@
+Pillow
+easyocr
+numpy
+pywin32

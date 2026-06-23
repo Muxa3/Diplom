@@ -1,0 +1,43 @@
+{
+  "keywords": [
+    {
+      "field": "Номер направления",
+      "keyword": "НАПРАВЛЕНИЕ",
+      "case_sensitive": true,
+      "x_offset": -140,
+      "y_offset": 140
+    },
+    {
+      "field": "ФИО",
+      "keyword": "НАПРАВЛЕНИЕ",
+      "case_sensitive": true,
+      "x_offset": -1560,
+      "y_offset": 280
+    },
+    {
+      "field": "СНИЛС",
+      "keyword": "(СНИЛС)",
+      "case_sensitive": true,
+      "x_offset": -1560,
+      "y_offset": 0
+    },
+    {
+      "field": "Паспорт",
+      "keyword": "Паспорт",
+      "case_sensitive": true,
+      "x_offset": -40,
+      "y_offset": -20
+    },
+    {
+      "field": "Услуга",
+      "keyword": "нужное подчеркнуть",
+      "case_sensitive": true,
+      "x_offset": -140,
+      "y_offset": 10
+    }
+  ],
+  "sharpness": 2.0,
+  "contrast": 1.5,
+  "brightness": 1.5,
+  "threshold": 160
+}
